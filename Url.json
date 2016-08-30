@@ -1,1 +1,56 @@
-����һ��
+{
+  "PageAchievement_title": {
+    "ID": "PageAchievement_title",
+    "zh_cn": "成就",
+    "zh_tw": "成就",
+    "en_us": "Achievement"
+  },
+  "PageHome_title": {
+    "ID": "PageHome_title",
+    "zh_cn": "灵熵",
+    "zh_tw": "靈熵",
+    "en_us": "SoulEntropy"
+  },
+  "PageHome_StatrBtn": {
+    "ID": "PageHome_StatrBtn",
+    "zh_cn": "开始游戏",
+    "zh_tw": "開始遊戲",
+    "en_us": "StartGame"
+  },
+  "PageHome_LoadBtn": {
+    "ID": "PageHome_LoadBtn",
+    "zh_cn": "载入进度",
+    "zh_tw": "載入進度",
+    "en_us": "LoadGame"
+  },
+  "MapBtn_text": {
+    "ID": "MapBtn_text",
+    "zh_cn": "地图",
+    "zh_tw": "地圖",
+    "en_us": "Map"
+  },
+  "AchievementBtn_text": {
+    "ID": "AchievementBtn_text",
+    "zh_cn": "成就",
+    "zh_tw": "成就",
+    "en_us": "Achievement"
+  },
+  "PageMap_title": {
+    "ID": "PageMap_title",
+    "zh_cn": "地图",
+    "zh_tw": "地圖",
+    "en_us": "Map"
+  },
+  "PanelLoading_title": {
+    "ID": "PanelLoading_title",
+    "zh_cn": "MAXKG",
+    "zh_tw": "MAXKG",
+    "en_us": "MAXKG"
+  },
+  "PanelLoading_tips": {
+    "ID": "PanelLoading_tips",
+    "zh_cn": "点击任意位置进入游戏",
+    "zh_tw": "點擊任意位置進入遊戲",
+    "en_us": "Click any screen "
+  }
+}
